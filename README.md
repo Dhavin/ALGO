@@ -53,6 +53,10 @@ entrypoint = "src/main.rs"
 [env]
 FOO="foo"
 
+# Setting environment variables
+[env]
+FOO="foo"
+
 # Packager configuration for the Universal Package Manager
 # See https://github.com/replit/upm for supported languages.
 [packager]

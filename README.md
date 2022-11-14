@@ -38,6 +38,9 @@ The `.replit` file allows you to configure many options for your repl, most basi
 
 Check out how to use the `.replit` file to configure a repl to enable [Clojure](https://clojure.org):
 
+# Clojure
+Check out how to use the `.replit` file to configure a repl to enable [Clojure](https://clojure.org):
+
 <iframe width="640" height="400" style="margin-bottom: 10px;" src="https://www.loom.com/embed/cbe1f74399c546c38e0c1871893816c5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 `.replit` files follow the [toml configuration format](https://learnxinyminutes.com/docs/toml/) and look something like this:
